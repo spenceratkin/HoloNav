@@ -1,0 +1,6 @@
+framework module Pods_HoloMapTests {
+  umbrella header "Pods-HoloMapTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
